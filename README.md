@@ -5,5 +5,5 @@ this module urilizes the following python libraries:<br>
 * scikit-learn<br>
 * Numpy<br>
 * pandas and its visualization package<br>
-The dataset is the famous Iris dataset that is found scikit-learn.<br>
+The dataset is the famous Iris dataset that is found in scikit-learn.<br>
 The accuracy of this module proves to be 0.97, i.e. 97%.
